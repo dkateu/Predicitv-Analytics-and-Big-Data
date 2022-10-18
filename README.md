@@ -1,1 +1,2 @@
 # Predicitv-Analytics-and-Big-Data
+#Das Ziel war, mit höhe Wahrscheinlichkeit, und Genauigkeit wer in einem Dataset einen Schlaganfall bekommen kann. Ich habe die Programmierung gemacht und die Kommilitonin die Dokumentation. Durch Datensplit (Train und Testdaten) habe ich das Modell mit Train Daten (zu 70%) erstellt und trainiert und am Ende mit Testdaten das Modell getestet und kam am Ende eine Prädiktiv von 65% und 60% accuracy.  
